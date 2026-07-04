@@ -12,7 +12,7 @@ const Delivery = lazy(() => import("./pages/deliver/Delivery"))
 const Payment = lazy(() => import("./pages/Payment"))
 const Contacts = lazy(() => import("./pages/Contact/Contacts"))
 const Catalog = lazy(() => import("./pages/Catalog"))
-const Prvl = lazy(() => import("./pages/deliver/prvl"))
+const Prvl = lazy(() => import("./pages/deliver/Prvl"))
 const Stm = lazy(() => import("./pages/deliver/Stm"))
 const Shop = lazy(() => import("./pages/Shop/Shop"))
 
