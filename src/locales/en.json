@@ -1,0 +1,230 @@
+{
+  "common": {
+    "phone": "8-800-550-01-09",
+    "loading": "Loading...",
+    "back": "Back",
+    "close": "Close"
+  },
+  "nav": {
+    "tagline": "Direct from the factory, no middlemen",
+    "delivery": "Delivery",
+    "payment": "Payment",
+    "contacts": "Contacts",
+    "catalogButton": "CATALOG",
+    "searchPlaceholder": "Search",
+    "city": "Irkutsk"
+  },
+  "catalog": {
+    "categoriesShort": [
+      "Thermal insulation",
+      "Sheet materials",
+      "Roofing and drainage",
+      "Fences",
+      "Building blocks",
+      "Dry mixes, profiles",
+      "Membranes"
+    ],
+    "categoriesFull": [
+      "Thermal insulation",
+      "Sheet materials",
+      "Roofing and drainage",
+      "Fences",
+      "Building blocks",
+      "Dry mixes, profiles",
+      "Membranes",
+      "Bitumen products",
+      "Concrete, cement",
+      "Metal rolling and fiberglass",
+      "Hardware",
+      "Garden and yard",
+      "PVC windows",
+      "Underfloor heating",
+      "Timber"
+    ],
+    "menuButton": "Catalog",
+    "title": "Basalt wool",
+    "refresh": "Refresh",
+    "retry": "Retry",
+    "loadError": "Failed to load products.",
+    "addedToCart": "“{{name}}” added to cart!",
+    "categoryId": "Category ID: {{id}}",
+    "unit": "Unit: {{unit}}",
+    "noDescription": "No description has been added for this product yet."
+  },
+  "logout": {
+    "button": "Log out"
+  },
+  "footer": {
+    "brand": "SUPPLIER",
+    "email": "postaviv@y8mail.ru",
+    "copyright": "© 2023 All rights reserved",
+    "infoTitle": "Information",
+    "payment": "Payment",
+    "delivery": "Delivery",
+    "privacyPolicy": "Personal data processing policy",
+    "consent": "Consent to personal data processing",
+    "officeTitle": "Head office and warehouse",
+    "address": "4 Rakitnaya St, building 11, Irkutsk",
+    "hours": "Business hours: Mon-Fri 9:00 AM - 6:00 PM, Sat 9:00 AM - 2:00 PM",
+    "regionalWarehouses": "Regional warehouses"
+  },
+  "login": {
+    "errors": {
+      "fillFields": "Please fill in all fields.",
+      "noToken": "Failed to obtain an authorization token.",
+      "invalidCredentials": "Invalid email or password."
+    },
+    "welcome": "Welcome",
+    "subtitle": "Sign in to your account to continue",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "forgotPassword": "Forgot password?",
+    "rememberMe": "Remember me",
+    "submitting": "Signing in...",
+    "submit": "Sign in",
+    "noAccount": "Don't have an account?",
+    "createAccount": "Create an account"
+  },
+  "products": {
+    "comfort20Title": "Penoflex Comfort 1185x585x20mm 20 panels, 13.86m2, 0.27m3",
+    "comfort30Title": "Penoflex Comfort 1185x585x30mm 20 panels, 13.86m2, 0.41m3",
+    "foilTitle": "Penoflex Foil 1185x585x10mm 20 panels, 13.86m2, 0.14m3",
+    "giftBadge": "3 GIFT",
+    "newBadge": "NEW",
+    "viewAll": "View all",
+    "decreaseQty": "Decrease quantity",
+    "increaseQty": "Increase quantity"
+  },
+  "home": {
+    "banners": [
+      {
+        "title": "New in Russia",
+        "subtitle": "Sever - insulation for harsh climates",
+        "price": "from 850 ₽ per 3m²"
+      },
+      {
+        "title": "Best insulation",
+        "subtitle": "Save heat in winter",
+        "price": "from 990 ₽ per 3m²"
+      },
+      {
+        "title": "Discounts up to 30%",
+        "subtitle": "Only until the end of the month",
+        "price": "from 750 ₽ per 3m²"
+      }
+    ],
+    "bannerCta": "Learn more",
+    "insulationTitle": "Thermal insulation",
+    "blocksTitle": "Building blocks",
+    "sheetsTitle": "Sheet materials",
+    "roofingTitle": "Roofing and drainage",
+    "showMore": "Show more"
+  },
+  "delivery": {
+    "rulesTab": "Delivery rules",
+    "priceTab": "Service cost",
+    "rulesHeading": "Delivery rules",
+    "rulesContent": "Delivery rules content...",
+    "priceHeading": "Service cost",
+    "priceContent": "Service pricing content..."
+  },
+  "prvl": {
+    "rulesTitle": "Delivery rules",
+    "rulesText": "Delivery is carried out by a transport company...",
+    "formHeading": "To arrange delivery, please provide the following details:",
+    "listContact": "contact person;",
+    "listPhone": "contact person's phone number;",
+    "listAddress": "delivery address.",
+    "pickupTitle": "Pickup",
+    "pickupText": "If you would like to pick up the goods yourself, we are waiting for you at: Irkutsk, Rakitnaya St. 4, building 11",
+    "cityDeliveryTitle": "Delivery within Irkutsk, Angarsk, and Shelekhov",
+    "cityDeliveryText": "The cost of delivering building materials is calculated individually by a company employee...",
+    "regionDeliveryTitle": "Delivery to other regions of Russia",
+    "regionDeliveryText": "Delivery to other regions is carried out by any transport company as agreed with the client."
+  },
+  "stm": {
+    "title": "Delivery cost within Irkutsk, to Angarsk, and to Shelekhov.",
+    "rates": [
+      { "label": "Delivery to Sverdlovsky district", "price": "800 ₽" },
+      { "label": "Delivery to Oktyabrsky district", "price": "from 900 ₽" },
+      { "label": "Delivery to 2nd Irkutsk, Novo-Lenino, Rabocheye, Marata suburb", "price": "from 1200 ₽" },
+      { "label": "Delivery to remote areas of the city", "price": "from 1500 ₽" },
+      { "label": "Delivery to transport companies (within Irkutsk)", "price": "from 900 ₽" },
+      { "label": "Delivery by 5-ton crane truck within the city and suburbs", "price": "from 3500 ₽" },
+      { "label": "Delivery to Angarsk", "price": "from 2000 ₽" },
+      { "label": "Delivery to Shelekhov", "price": "1200 ₽" },
+      { "label": "Delivery to Khomutovo village", "price": "from 1500 ₽" },
+      { "label": "Delivery to Smolenshchina village", "price": "from 1000 ₽" },
+      { "label": "Delivery to Pivovarikha village", "price": "from 1200 ₽" },
+      { "label": "Delivery along Melnichny tract", "price": "from 1000 ₽" },
+      { "label": "Delivery along Baikalsky tract", "price": "from 1000 ₽" }
+    ]
+  },
+  "payment": {
+    "breadcrumb": "Home • Payment",
+    "title": "Payment",
+    "methods": [
+      { "title": "QR code", "desc": "Payment is credited to the seller's account instantly..." },
+      { "title": "Cash", "desc": "Direct hand-to-hand payment to the seller." },
+      { "title": "Bank transfer", "desc": "The transfer is made based on the organization's details provided." }
+    ],
+    "text1": "We love animals and try to support those who haven't been lucky enough to have caring owners and a warm home. One proven way to help is by supporting the “Ray of Kindness” charity fund. Thanks to their work, hundreds of pets find a new home every year.",
+    "text2": "The opposing viewpoint suggests that independent states only add factional disagreements and are represented",
+    "requisitesTitle": "Payment details:",
+    "requisites": [
+      "Supplier LLC",
+      "TIN 7713522570 / KPP 771301001",
+      "Checking account No. 40702810400180000662",
+      "OTP Bank JSC, Moscow",
+      "Correspondent account No. 30101810000000000311",
+      "BIC 044525311"
+    ]
+  },
+  "shop": {
+    "orderedTitle": "Your order has been placed successfully!",
+    "orderedText": "We will contact you shortly to confirm the order details.",
+    "toHome": "GO HOME",
+    "cartTitle": "Cart",
+    "cartEmpty": "Your cart is empty.",
+    "pricePerUnit": "{{price}} ₽/pc.",
+    "itemTotal": "Total: {{sum}} ₽",
+    "checkoutTitle": "Checkout",
+    "nameLabel": "Name *",
+    "phoneLabel": "Phone number *",
+    "emailLabel": "Email",
+    "selectWarehouse": "Select a warehouse",
+    "warehouse": "Warehouse {{n}}",
+    "itemsCount": "{{count}} items",
+    "totalSum": "Total: {{sum}} ₽",
+    "placeOrder": "PLACE ORDER",
+    "policyNote": "By clicking \"place order\", you agree to the personal data processing policy."
+  },
+  "politic": {
+    "title": "Privacy Policy",
+    "sections": [
+      { "title": "1. TERMS AND DEFINITIONS", "content": "1.1. This Privacy Policy uses the following terms: \n 1.1.1. “Personal data” - any information relating to a directly or indirectly identified or identifiable individual (data subject)." },
+      { "title": "2. GENERAL PROVISIONS", "content": "2.1. The processing and security of personal data is carried out by the Company in accordance with the requirements of Federal Law No. 152-FZ of 27.07.2006 “On Personal Data”." },
+      { "title": "3. SUBJECT OF THE PRIVACY POLICY", "content": "3.1. This Privacy Policy establishes the Company's obligations regarding the non-disclosure and protection of the confidentiality of personal data." },
+      { "title": "4. PURPOSES OF COLLECTING PERSONAL INFORMATION", "content": "4.1. The Company may use the User's personal data for the purpose of establishing feedback, including sending notifications and requests related to the use of the Company's Website." },
+      { "title": "5. METHODS AND TERMS OF PROCESSING PERSONAL INFORMATION", "content": "5.1. Processing of the User's personal data is carried out without a time limit, by any lawful means, including in personal data information systems." },
+      { "title": "6. OBLIGATIONS OF THE PARTIES", "content": "6.1. The User is obliged to: provide personal data information necessary to use the Company's Website. 6.2. The Company is obliged to: use the information received solely for the purposes specified in Section 4 of this Policy." },
+      { "title": "7. LIABILITY OF THE PARTIES", "content": "7.1. The Company, having failed to fulfill its obligations, is liable for losses incurred by the User in connection with the unlawful use of personal data." },
+      { "title": "8. DISPUTE RESOLUTION", "content": "8.1. Before going to court with a claim arising from the relationship between the User of the site and the Company, filing a claim is mandatory." },
+      { "title": "9. ADDITIONAL TERMS", "content": "9.1. The Company has the right to make changes to this Privacy Policy without the User's consent. 9.2. The new Policy takes effect upon its publication on the Website." }
+    ]
+  },
+  "contacts": {
+    "title": "Contacts",
+    "office1": {
+      "heading": "Head office and warehouse",
+      "email": "postav.irk@mail.ru",
+      "address": "4 Rakitnaya St, building 11, Irkutsk"
+    },
+    "office2": {
+      "heading": "Traktovaya office and warehouse",
+      "email": "post5447374@gmail.com",
+      "address": "Address: 7/7 Traktovaya St, Irkutsk"
+    },
+    "hours": "Mon-Fri 9:00 AM - 6:00 PM, Sat 9:00 AM - 2:00 PM"
+  }
+}
